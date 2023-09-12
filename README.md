@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Kayque Rodigues
 
-- 💡 Atualmente cursando Desenvolvimento de Sistemas na Etec Basilides de Godoy 3/3
+- 💡 Técnico em Analise de Desenvolvimento de Sistemas 
 
-🌐 sociais:
+# 🌐 sociais:
 
 <div>
  <a href="https://www.instagram.com/kay.rf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,10 +16,8 @@
 
 # 📊 estatísticas:
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kayfidelis[](url)&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-kayfidelis.vercel.app/api/top-langs/?username=kayfidelis&show_icons=true&theme=radical&layout=compact" />
- </div>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?kayfidelis=karanalpe&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?kayfidelis=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
