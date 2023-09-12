@@ -12,11 +12,13 @@
 
 # 💻 linguagens:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-📊 estatísticas:
+
+
+# 📊 estatísticas:
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kayfidelis[](url)&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-kayfidelis.vercel.app/api/top-langs/?username=kayfidelis&show_icons=true&theme=radical&layout=compact" />
  </div>
 
 
