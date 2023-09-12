@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kayque Rodigues
 
-- 💡 Atualmente cursando Desenvolvimento de Sistemas na Etec Basilides de Godoy 2/3
+- 💡 Atualmente cursando Desenvolvimento de Sistemas na Etec Basilides de Godoy 3/3
 
 🌐 sociais:
 
