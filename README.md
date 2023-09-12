@@ -18,10 +18,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bia-miranda&theme=gotham&hide_border=true)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=bia-miranda&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  ![Snake animation](https://github.com/bia-miranda/bia-miranda/blob/output/github-contribution-grid-snake.svg)
 
