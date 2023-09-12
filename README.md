@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kayque Rodigues
 
-- 💡 Técnico em Analise de Desenvolvimento de Sistemas 
+# 💡 Técnico em Analise de Desenvolvimento de Sistemas 
 
 # 🌐 sociais:
 
@@ -11,14 +11,9 @@
 </div>
 
 # 💻 linguagens:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 # 📊 estatísticas:
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?kayfidelis=karanalpe&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?kayfidelis=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kayfidelis&theme=highcontrast&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
