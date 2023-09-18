@@ -23,6 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  </div>
+
+###
 </div>
 
 ###
@@ -30,11 +34,14 @@
 
 # 📊 estatísticas:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kayfidelis&theme=highcontrast&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayfidelis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kayfidelis&theme=highcontrast&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/kayfidelis/kayfidelis/output/snake.svg" alt="Snake animation" />
 
 ###
+
