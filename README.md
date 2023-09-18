@@ -41,7 +41,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kayfidelis&theme=highcontrast&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/kayfidelis/kayfidelis/output/snake.svg" alt="Snake animation" />
 
 ###
 
