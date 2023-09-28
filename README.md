@@ -39,7 +39,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayfidelis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+</br>
+<div>
+  <img width ="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kayfidelis&stroke=ffffff&background=1c1917&ring=A45EE5&fire=A45EE5&currStreakNum=ffffff&currStreakLabel=A45EE5&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Stats"/>
+</div>
 
-
-###
 
