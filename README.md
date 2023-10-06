@@ -1,8 +1,8 @@
-### Olá! Eu sou o Kayque Rodigues
+ Olá! Eu sou o Kayque Rodigues
 
-# 💡 Técnico em Analise de Desenvolvimento de Sistemas 
+ 💡 Técnico em Analise de Desenvolvimento de Sistemas 
 
-# 🌐 sociais:
+🌐 sociais:
 
 <div>
  <a href="https://www.instagram.com/kay.rf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
 
 ###
 
-# 💻 skills:
+ 💻 skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -33,7 +33,7 @@
 ###
 
 
-# 📊 estatísticas:
+ 📊 estatísticas:
 
 
 <div>
